@@ -1,0 +1,51 @@
+allequal.test           all.equal with expected outcome test
+anchors                 Non-parametric analysis of surveys with
+                        vignette anchors
+anchors.chopit.check    Compound Hierarchical Ordered Probit (CHOPIT)
+anchors.chopit.fit      Compound Hierarchical Ordered Probit (CHOPIT)
+anchors.chopit.parm     Compound Hierarchical Ordered Probit (CHOPIT)
+anchors.combn           Calculate known minimum or estimated entropy
+                        for survey vignettes
+anchors.data            Organized data from surveys with anchoring
+                        vignettes
+anchors.options         Set or query anchors() parameters
+anchors.order           Calculate frequency of vignette orderings
+barplot.anchors.order   Barplot of frequency of vignette orderings
+barplot.anchors.rank    Barlot of distribution of non-parametric ranks
+chopit                  Compound Hierarchical Ordered Probit (CHOPIT)
+chopitsim               Simulated Data for test chopit function
+convert                 Convert factor or character variables into
+                        integers
+cpolr                   Censored ordered probit
+fitted.anchors.cpolr    Conditional and unconditional prediction for
+                        censored ordered probit
+fitted.anchors.rank     Fitted values of non-parametric models
+fitted.cpolr            Conditional and unconditional prediction for
+                        censored ordered probit
+freedom                 Freedom of Speech Data
+insert                  Insert DIF-corrected variable into original
+                        data frame
+mexchn                  Poltical Efficacy Data
+plot.anchors.combn      Plot results from anchors( method='entropy')
+plot.anchors.rank       Plot components of anchors.rank objects
+poleff                  Simulated Poltical Efficacy Data
+poleffna                Simulated Poltical Efficacy Data-with NAs, DEMO
+                        ONLY!
+replace.list            Updating contents of one list using a second
+                        list
+replace.value           Replaces occurences of a value with another
+                        value in set of columns
+selfcare                Selfcare data for China
+sleep                   Sleep data for China
+summary.anchors.chopit
+                        Summary of CHOPIT Analysis
+summary.anchors.combn   Summary of anchors(..., method='entropy')
+                        analysis
+summary.anchors.order   Calculate frequency of vignette orderings
+summary.anchors.rank    Summary of non-parameteric anchors analysis
+table1                  Results from cases given in King and Wand
+                        (2007)
+table1src               Specific response values that have inequalities
+                        to create table1
+trim.data               Trim a dataset to have same cases present in an
+                        anchors.data object

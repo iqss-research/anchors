@@ -1,0 +1,52 @@
+useDynLib(anchors)
+import(grDevices)
+import(graphics)
+import(MASS)
+import(rgenoud)
+
+export(
+       chopit,
+       allequal.test,
+       anchors,
+       anchors.chopit.check,
+       anchors.chopit.fit,
+       anchors.chopit.parm,
+       anchors.data,
+       anchors.combn,       
+       anchors.options,
+       anchors.order,       
+       chopit,
+       convert,
+       cpolr  ,
+       fitted.cpolr, 
+       insert,
+       plot.anchors.combn,
+       plot.anchors.rank,
+       barplot.anchors.order,       
+       barplot.anchors.rank,
+       replace.list,
+       replace.value,
+       summary.anchors.chopit,
+       summary.anchors.combn,
+       summary.anchors.order,
+       summary.anchors.rank,
+       trim.data
+       )
+
+S3method(print, anchors.chopit )
+
+S3method(summary, anchors.chopit )
+S3method(summary, anchors.combn)
+S3method(summary, anchors.order  )
+S3method(summary, anchors.rank   )
+
+
+S3method(plot, anchors.combn  )
+S3method(plot, anchors.rank   )
+S3method(barplot, anchors.order  )
+S3method(barplot, anchors.rank   )
+
+
+S3method(fitted , cpolr)
+
+
