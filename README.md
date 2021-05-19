@@ -1,4 +1,6 @@
-# Anchors: Statistical analysis of surveys with anchoring vignettes
+# Anchors
+
+Statistical analysis of surveys with anchoring vignettes
 
 
 
